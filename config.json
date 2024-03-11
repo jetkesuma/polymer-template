@@ -8,7 +8,7 @@
     "srcChain": "optimism",
     "srcAddr": "0x1234567890AbCdEf1234567890aBcDeF12345678",
     "dstChain": "base",
-    "dstAddr": "0x1234567890AbCdEf1234567890aBcDeF12345678",
+    "dstAddr": "0x7C0559d36E6f3026EFf0DC3B6662C4F8Fd2C3475",
     "version": "1.0",
     "ordering": 0,
     "fees": false
@@ -20,7 +20,7 @@
       "timeout": 36000
     },
     "base": {
-      "portAddr": "0x1234567890abcdef1234567890abcdef12345678",
+      "portAddr": "0x7C0559d36E6f3026EFf0DC3B6662C4F8Fd2C3475",
       "channelId": "channel-n",
       "timeout": 36000
     }
